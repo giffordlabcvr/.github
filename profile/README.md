@@ -1,4 +1,4 @@
-## Hi there 👋
+## Overview
 
 The Gifford Lab is dedicated to advancing viral genomics by creating open resources that promote collaborative research.
 
