@@ -1,6 +1,6 @@
 ## Overview
 
-The Gifford Lab is dedicated to advancing viral genomics by creating open resources that promote collaborative research.
+The **Gifford Lab** is dedicated to advancing viral genomics by creating open resources that promote collaborative research.
 
 Our key initiatives include the GLUE framework for genomic analysis, and the DIGS tool for genome screening.
 
