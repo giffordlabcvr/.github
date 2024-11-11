@@ -1,6 +1,6 @@
 ## Overview
 
-The **Gifford Lab** is dedicated to advancing viral genomics by creating open resources that promote collaborative research.
+The **Gifford Lab** is dedicated to advancing comparative genomics by creating open resources that promote collaborative research.
 
 Our main focus is the **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki/)** framework and **[various projects](https://github.com/giffordlabcvr/gluetools/wiki/Gifford-Lab-GLUE-Projects)** developed using this framework.
 
