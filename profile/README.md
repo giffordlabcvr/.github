@@ -2,7 +2,7 @@
 
 The **Gifford Lab** conducts scientific investigations into the evolution of viruses and their impact on host species.
 
-## Software & Resources
+### Software & Resources
 
 We are dedicated to advancing comparative genomics by creating open resources that promote collaborative research. 
 
