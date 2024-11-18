@@ -4,7 +4,7 @@ The **Gifford Lab** conducts scientific investigations into the evolution of vir
 
 ### Software & Resources
 
-We are dedicated to advancing **comparative genomics** by creating open resources that promote **collaborative research**. 
+We are dedicated to advancing **comparative genomics** by creating **open resources** that promote **collaborative research**. 
 
 Our main focus is the **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki/)** software framework and various **[genomics resources](https://github.com/giffordlabcvr/gluetools/wiki/Gifford-Lab-GLUE-Projects)** developed using this framework.
 
