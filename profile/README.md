@@ -19,4 +19,3 @@ Our research focuses on the evolutionary dynamics of viruses and their interacti
 -   **Impact of viruses on host species evolution**: Examining how interactions with viruses shapes the evolution of host species.
 -   **Paleovirology**: Uncovering the ancient interactions between viruses and hosts through the study of endogenous viral elements (EVEs).
 
-*****
