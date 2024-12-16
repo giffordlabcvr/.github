@@ -2,7 +2,7 @@
 
 The **Gifford Lab** conducts scientific investigations into the evolution of viruses and their impact on host species.
 
-Key themes include:
+Research themes include:
 
 -   **Long-term evolution of viruses**: Exploring how viruses evolve over extended timescales.
 -   **Origins and emergence of viral pathogens**: Investigating the evolutionary history and cross-species transmission events that give rise to new viral pathogens.
