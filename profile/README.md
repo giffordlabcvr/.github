@@ -13,7 +13,7 @@ Research themes include:
 
 We are dedicated to advancing **comparative genomics** by creating **open resources** that promote **collaborative research**. 
 
-Our main development focus is the **[GLUE](https://github.com/giffordlabcvr/gluetools/wiki/)** software framework, and various **[genomics resources](https://github.com/giffordlabcvr/gluetools/wiki/Gifford-Lab-GLUE-Projects)** developed using it.
+Our main development focus is the **[GLUE](https://github.com/giffordlabcvr/gluetools)** software framework, and various **[genomics resources](https://github.com/giffordlabcvr/gluetools/wiki/Gifford-Lab-GLUE-Projects)** developed using it.
 
 Please check out the **[GLUE Genomics blog](https://gluetools.substack.com)** for more information.
 
