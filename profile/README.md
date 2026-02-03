@@ -16,6 +16,3 @@ We are dedicated to advancing **comparative genomics** by creating **open resour
 Our main development focus is the **[GLUE](https://github.com/giffordlabcvr/gluetools)** software framework, and various **[genomics resources](https://github.com/giffordlabcvr/gluetools/wiki/Gifford-Lab-GLUE-Projects)** developed using it.
 
 Please check out the **[GLUE Genomics blog](https://gluetools.substack.com)** for more information.
-
-We have also developed the **[DIGS tool](https://github.com/giffordlabcvr/DIGS-tool)** - a framework for performing systematic in silico genome screening.
-
